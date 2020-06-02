@@ -1,1 +1,2 @@
-# Anomaly_Detection_Analysis
+# Graduation Qualification Work.
+## Theme: Сomparative analysis of methods for detecting anomalies in microbiological data
